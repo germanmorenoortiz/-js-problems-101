@@ -1,14 +1,11 @@
 {
   "name": "js-problems-101",
   "version": "1.0.0",
-  "description": "In the starter code you have a file containing a number of tests, and a file with a series of problems to solve:",
-  "main": "problems.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "author": "",
-  "license": "ISC",
+  "main": "index.js",
+  "repository": "git@github.com:germanmorenoortiz/-js-problems-101.git",
+  "author": "germanmorenoortiz <germanmorenoortiz.com>",
+  "license": "MIT",
   "dependencies": {
-    "jest": "^25.2.7"
+    "jest": "^26.4.2"
   }
 }
